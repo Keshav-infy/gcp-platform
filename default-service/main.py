@@ -4,4 +4,4 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello():
-    return 'My Default Service - V2-3-57-0:INCRUP1.1'
+    return 'My Default Service for Cloud Build trigger'
