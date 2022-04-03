@@ -3,4 +3,4 @@ steps:
   args: 
   - app
   - deploy
-  - default-service/app.yaml
+  - my-first-service/app.yaml
